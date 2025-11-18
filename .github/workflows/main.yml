@@ -1,3 +1,0 @@
-git add .
-git commit -m "Build APK"
-git push origin main
